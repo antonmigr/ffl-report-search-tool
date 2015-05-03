@@ -1,0 +1,10 @@
+S:\Information Technology\Barry\CheckBoxComboBox\DemoApp\bin\Debug\DemoApp.exe
+S:\Information Technology\Barry\CheckBoxComboBox\DemoApp\bin\Debug\DemoApp.pdb
+S:\Information Technology\Barry\CheckBoxComboBox\DemoApp\bin\Debug\CheckBoxComboBox.dll
+S:\Information Technology\Barry\CheckBoxComboBox\DemoApp\bin\Debug\CheckBoxComboBox.pdb
+S:\Information Technology\Barry\CheckBoxComboBox\DemoApp\obj\Debug\DemoApp.csprojResolveAssemblyReference.cache
+S:\Information Technology\Barry\CheckBoxComboBox\DemoApp\obj\Debug\DemoApp.Form1.resources
+S:\Information Technology\Barry\CheckBoxComboBox\DemoApp\obj\Debug\DemoApp.Properties.Resources.resources
+S:\Information Technology\Barry\CheckBoxComboBox\DemoApp\obj\Debug\DemoApp.csproj.GenerateResource.Cache
+S:\Information Technology\Barry\CheckBoxComboBox\DemoApp\obj\Debug\DemoApp.exe
+S:\Information Technology\Barry\CheckBoxComboBox\DemoApp\obj\Debug\DemoApp.pdb
