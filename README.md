@@ -1,0 +1,2 @@
+# ffl-report-search-tool
+The FFL Lab Report Search Tool is a utility used to retrieve PDF versions of various drug testing reports from the Forensic Fluids server quickly and efficiently.  This tool was my senior design project and it was developed by a group of 3 students.  This is a demo version which demonstrates the main features of the tool, and it is not the final full-featured version delivered to the customer. The executable is located in the DynamicQuery/bin/Realease folder.
